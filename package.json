@@ -1,0 +1,13 @@
+{
+  "name": "node-json-db",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "types": "types/node-json-db.d.ts",
+  "author": "Deep Singh Yadav",
+  "license": "MIT",
+  "description": "A lightweight, file-based JSON database with optional encryption, supporting basic CRUD operations and password protection."
+}
