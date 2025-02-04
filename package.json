@@ -9,5 +9,13 @@
   "types": "types/node-json-db.d.ts",
   "author": "Deep Singh Yadav",
   "license": "MIT",
-  "description": "A lightweight, file-based JSON database with optional encryption, supporting basic CRUD operations and password protection."
+  "description": "A lightweight, file-based JSON database with optional encryption, supporting basic CRUD operations and password protection.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeepSingh10/node-json-db.git"
+  },
+  "bugs": {
+    "url": "git+https://github.com/DeepSingh10/node-json-db/issues"
+  },
+  "homepage": "git+https://github.com/DeepSingh10/node-json-db#readme"
 }
