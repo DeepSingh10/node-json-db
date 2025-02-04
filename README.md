@@ -1,4 +1,4 @@
-# node-json-db
+# node-json-db-manager
 
 A lightweight, file-based JSON database with optional encryption, supporting basic CRUD operations and password protection.
 
@@ -12,7 +12,7 @@ A lightweight, file-based JSON database with optional encryption, supporting bas
 ## Installation
 
 ```sh
-npm install node-json-db
+npm install node-json-db-manager
 ```
 
 ## Usage
@@ -20,7 +20,7 @@ npm install node-json-db
 ### Importing the Library
 
 ```javascript
-const JsonDB = require("node-json-db").default;
+import JsonDB from "node-json-db-manager"
 ```
 
 ### Creating a Database Instance
@@ -96,5 +96,5 @@ Changes the encryption password.
 
 ## License
 
-MIT License © 2024 node-json-db
+MIT License © 2024 node-json-db-manager
 

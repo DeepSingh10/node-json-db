@@ -1,5 +1,5 @@
 {
-  "name": "node-json-db",
+  "name": "node-json-db-manager",
   "version": "1.0.0",
   "main": "index.js",
   "type": "module",
@@ -12,10 +12,10 @@
   "description": "A lightweight, file-based JSON database with optional encryption, supporting basic CRUD operations and password protection.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DeepSingh10/node-json-db.git"
+    "url": "git+https://github.com/DeepSingh10/node-json-db-manager.git"
   },
   "bugs": {
-    "url": "git+https://github.com/DeepSingh10/node-json-db/issues"
+    "url": "git+https://github.com/DeepSingh10/node-json-db-manager/issues"
   },
-  "homepage": "git+https://github.com/DeepSingh10/node-json-db#readme"
+  "homepage": "git+https://github.com/DeepSingh10/node-json-db-manager#readme"
 }
